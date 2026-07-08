@@ -259,9 +259,3 @@ For issues and questions:
 - [LangChain Documentation](https://python.langchain.com/)
 - [OpenAI API Reference](https://platform.openai.com/docs/)
 - [Chroma Vector Database](https://www.trychroma.com/)
-
----
-
-**Created by**: KrishnnaYadav5  
-**Last Updated**: 2024  
-**Language**: Python 🐍
